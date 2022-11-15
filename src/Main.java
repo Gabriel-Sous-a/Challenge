@@ -4,5 +4,6 @@ public class Main {
         System.out.println(RentalCost.totalCost(2));
         System.out.println(multiplyBox.multiply());
         System.out.println(ChartAnalyser.analyser());
+        System.out.println("ola");
     }
 }
